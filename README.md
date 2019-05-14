@@ -1,9 +1,13 @@
-# my-project
+# 这是一个静态的后台管理系统
+## 技术栈 ： vue+vue-cli+elemmentUI
+## 是一个3级导航的单页面应用，刚刚学vue的可以看一下
+### 可以的帮忙点一下小星星 谢谢 欢迎交流提出意见
 
 > A Vue.js project
 
 ## Build Setup
- ### [预览](https://jioh-l-y-c.github.io/-/dist/index.html)
+ ### [预览https://jioh-l-y-c.github.io/-/dist/index.html](https://jioh-l-y-c.github.io/-/dist/index.html) ###点击可以看效果
+
 
 ``` bash
 # install dependencies
