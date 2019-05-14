@@ -3,6 +3,7 @@
 > A Vue.js project
 
 ## Build Setup
+ ### [预览](https://jioh-l-y-c.github.io/-/dist/index.html)
 
 ``` bash
 # install dependencies
